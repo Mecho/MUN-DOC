@@ -1,0 +1,19 @@
+{
+  "name": "mun-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MAUAC",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.10",
+    "@vuepress/plugin-nprogress": "^1.9.10",
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "markdown-it-footnote": "^4.0.0"
+  }
+}
