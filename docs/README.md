@@ -13,5 +13,5 @@ features:
 ---
 
 ::: slot footer
-MIT Licensed | Copyright © 2020-present MAUAC
+CC BY-NC-ND 4.0 DEED Licensed | Copyright © 2020-present MAUAC
 :::
